@@ -1,7 +1,7 @@
 {
-  "private_key_id": "88383e48bae002e3a69119c563c5103b6057dd72",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMLiDHevCUJqQK\nmnUVst6X+ES9FhIjvwKZecB0i57KSqgXxKa7HhlONqRhdlqvP6RlHgKLmPDg2B8P\ncJKkdQwOn2Pte9Y/mom8+h38iPTsC6GfJyl/kvIemJkBNMVP++fqfwbjzb3Dhdvv\ni1CjnNLYpSkxnd0KYBAyvIT+aVwK1AQP2XMpiDQngAPtsv0LkNBTZAnhyFtoGSHR\nRciUAiNxr5ry71pczrmAToIADaJub37hBwC6NrvqNJFQflvsm+zsO9QUxfg3PvS6\nUfck0cMlbPlMTExLNLXbkniM2V6M2D8INujh4c06MWGzSTl8YDFDjel3r2i1L678\nH4ck4ojHAgMBAAECggEAG+1jRmWmal0uqtSdly40DA1FOae/K2yA6oUgsdA3E+xK\nOZYISCfBxlTq/vm1RasqzTnhlz6AFAD7np0DMcNgts9OV7lMgL6egF6lo1kIRxEA\nNkihAHYU7+JnaybQpjQKcKSXSKlnf0rb3lPr37UfkcplbAfvp++jx4zJlBLNKB3B\nL2vfuZZktDTM8yyzrcJrB5gEK2RjIE6QleI1y7oXqJpw7cFG6SU2kzTINnMAv7F5\n6tUS9/9PFf7EKNZ0hcTs0YqcJTM8fslyOaG5UuMOCCE3+2/dzjirX7PCUwqZocDa\npU8BW84g70dGpdQB6dUJ8VsH3KHjR0rpOrv+7JMbIQKBgQDq/zv4pnqNjG2Iqu9A\ncN7kCxOLEsnCArEh+u3j7ZCPay6WCozb6vpmeT9KT3ylplT3vdpXUOJVnBd2h/jc\naT+wzOJUcr3LPXxw/TnMflDFs21kn/uTbukiLfBCLLuq4qRCk3d2qyFsWmSSAkRT\nIzMvPQz4t3tt+sp0zzK7IIAD1QKBgQDebczpDKVKAFr8zb23DPvsrpTtv1QWzlbz\n8a4JCSVJd6aPAw17+f5e5WDpdfyBVMb57zn5zVWRctgo2HCN5nmE7wttltrGrYKD\nppd0MzrwGmbYgoJ+MtCAIi2FWIzVPWFwr2rWFsfIVKf5A055bhxWCKV19UWwNp7J\nYPskpaBUKwKBgFDhH6boxW1KU7ih/E5ViqE6HrPS95XKj2R+lLnJ3eM+pH4Hi4t1\nSFFUka/lw6TPppbNxQQgVoXYf0rQaZqSrtUO7ybZhvEYbGgG/4meP/aLVq83UMLh\nfWPCI9riwoSCFL7FOmyhYZOFWO/Xz+Q9TTSI8pn3rIehtWSWm4NEIEsxAoGBAK6U\nwgOdcFKwCrpoBeMaJtXzhWNCDA9Gb0tTQ0VGT2Tlq+6N99R6OKRlJ3a2q7UbRH3B\nveCKwQHDgVQ15coKvxCOy4p9oEPWxhzs8e07lKQGJPkFHsVMvwgDS3VhNlDct5FJ\nrfJRuQdNIvY5GSwIN+dzK+N02vjfNixbmWN/OGM3AoGASh/ThGBhs2fTfI8NA9r3\n3lHEPo/QeKyfEUftmgP28EvCv2wu10VDHmOd7AmZOLu8igSoilbQ0dU/gEVc57RF\ntaudOJidjb/MmrEO1ovYDFiuIJrl/L2VKQnoQP9r1yXyMdn/2bon+eeTkr7M9cMa\naFiEgduG5QfpQ21n/d3SD+8\u003d\n-----END PRIVATE KEY-----\n",
-  "client_email": "311580074832-m9n3s9a1htqq2fla0a8bpt8a8gkt8k2q@developer.gserviceaccount.com",
-  "client_id": "311580074832-m9n3s9a1htqq2fla0a8bpt8a8gkt8k2q.apps.googleusercontent.com",
-  "type": "service_account"
+  "private_key_id": "{var.private_key_id}",
+  "private_key": "{var.private_key}",
+  "client_email": "{var.client_email}",
+  "client_id": "{var.client_id}",
+  "type": "{var.type}"
 }
