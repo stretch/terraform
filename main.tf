@@ -4,7 +4,7 @@ resource "google_compute_network" "stretch" {
 }
 
 provider "google" {
-    account_file = "${var.google.json}"
+    account_file = "${var.google}"
     project = "winged-precinct-95712"
     region = "europe-west1"
 }
